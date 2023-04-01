@@ -1,0 +1,34 @@
+[
+    {
+       "_id": "6",
+       "picture": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1380&t=st=1680353390~exp=1680353990~hmac=b09a75af6c66fbfa18c07682509a34182125dd9c0aaaf7323e39d0ce1283c143",
+       "name": "Andrea Piacquadio",
+       "profile_image": "https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "read_time":6,
+       "title": "How to Build a RESTful API with Node.js and Express"
+    },
+    {
+       "_id": "7",
+       "picture": "https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1480&t=st=1680353529~exp=1680354129~hmac=1504a377f365d7b510088e9d051e02a39235fdfe0b72c44848435e8250e0eb6f",
+       "name": "José Luis",
+       "profile_image":"https://images.pexels.com/photos/2448750/pexels-photo-2448750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "read_time":13,
+       "title": "Debugging Strategies for Finding and Fixing Code Errors"
+    },
+    {
+       "_id": "8",
+       "picture": "https://images.pexels.com/photos/4385547/pexels-photo-4385547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "name": "Santoos Kirby",
+       "profile_image":"https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "read_time":25,
+       "title": "Building a Chatbot with Natural Language Processing in Python"
+    },
+    {
+       "_id": "9",
+       "picture": "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+       "name": "Hardik Haley",
+       "profile_image":"https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1680199431~exp=1680200031~hmac=1f149569280d58ad4486c5b4e43d0b530d76b41bbba9c54d3aaff9d54e5f2545",
+       "read_time":20,
+       "title": "How to use Linkedin efficiently and find a job"
+    }
+ ]
